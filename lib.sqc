@@ -1,0 +1,7 @@
+#include "lib.h"
+
+
+void hello()
+{
+   printf("VSCODE is great, but have a bug");
+}
